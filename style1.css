@@ -23,7 +23,13 @@ header > nav {
 }
 header > nav > a {
   border: 1px solid black;
-  margin-right: 10px;
+  margin-right: 15px;
+  display: inline-block;
+  font-family: "Akaya Kanadaka", cursive;
+  font-size: 20px;
+  margin-top: 12px;
+  color: rgba(11, 78, 58, 0.973);
+  text-decoration: none;
 }
 main {
   background-color: rgba(204, 241, 224, 0.295);
