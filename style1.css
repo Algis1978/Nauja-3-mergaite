@@ -58,6 +58,14 @@ main div:last-child {
   margin-left: 14px;
   margin-top: 10px;
 }
+main > div h1,
+p {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+}
+main > div h1 {
+  font-size: 60px;
+}
 img {
   width: 380px;
 }
