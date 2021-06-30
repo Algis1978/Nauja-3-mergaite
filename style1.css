@@ -16,6 +16,15 @@ header > div > img {
   width: 60px;
   margin: 5px;
 }
+header > nav {
+  height: 60px;
+  border: 1px solid black;
+  float: right;
+}
+header > nav > a {
+  border: 1px solid black;
+  margin-right: 10px;
+}
 main {
   background-color: rgba(204, 241, 224, 0.295);
   width: 800px;
